@@ -1,82 +1,51 @@
-# 👋 ¡Hola! Soy Oscar Castro 🚀  
+# 👋 Hola, soy Oscar Castro
 
-### 💻 Desarrollador de Software en formación | React | ASP.NET | Apasionado por aprender  
-
-> Construyendo soluciones reales mientras desarrollo mi mejor versión profesional.
-
----
-
-## 🧠 Sobre mí  
-
-Soy un desarrollador enfocado en crecimiento constante, con fuerte interés en:
-
-- ⚛️ Desarrollo Frontend con React  
-- 🏗️ Aplicaciones web estructuradas y escalables  
-- 🏨 Sistemas de gestión (Hotel Management System en desarrollo)  
-- 🤖 Inteligencia Artificial desde cero  
-- 📈 Mejora continua y aprendizaje constante  
-
-Me gustan los retos técnicos, resolver problemas complejos y entender el “por qué” detrás de cada tecnología.
+💻 Desarrollador de Software en formación  
+⚛️ Enfocado en React y ASP.NET  
+🚀 Aprendiendo constantemente y construyendo proyectos reales  
 
 ---
 
-## 🛠️ Stack Tecnológico  
+## 🧠 Sobre mí
 
-### 🚀 Frontend
-- React  
-- JavaScript (ES6+)  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
+Soy un desarrollador orientado al crecimiento continuo, con interés en crear aplicaciones web bien estructuradas, funcionales y escalables.
 
-### 🧩 Backend
-- C#  
-- ASP.NET  
-- Consumo de APIs  
-- Axios  
-
-### 🗄️ Otros conocimientos
-- Git & GitHub  
-- Estructuración de proyectos  
-- Buenas prácticas de UI/UX  
-- Control de estado en React  
-- CRUD completo con consumo de APIs  
+Me motiva resolver problemas, mejorar mis habilidades técnicas y trabajar en proyectos que generen impacto real.
 
 ---
 
-## 📊 Actualmente trabajando en
+## 🛠️ Tecnologías
 
-### 🏨 Sistema de Gestión Hotelera
-- Reservas  
-- Check-in / Check-out  
-- Facturación  
-- Gestión de habitaciones  
-- Panel administrativo  
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
 
-### 🎵 Proyecto futuro
-Plataforma de venta de cursos de música.
+**Backend**
+- C#
+- ASP.NET
+- Consumo de APIs
+- Axios
 
-### 🤖 Aprendizaje actual
-Fundamentos sólidos para especializarme en Inteligencia Artificial.
-
----
-
-## 🎯 Objetivos Profesionales
-
-- Convertirme en desarrollador Full Stack sólido  
-- Dominar arquitectura de aplicaciones web  
-- Especializarme en IA aplicada  
-- Crear productos digitales propios  
-- Expandir proyectos al mercado colombiano 🇨🇴  
+**Herramientas**
+- Git & GitHub
+- Estructuración de proyectos
+- CRUD con integración de APIs
 
 ---
 
-## 🔥 Filosofía
+## 📌 Actualmente
 
-- 📚 Siempre aprendiendo  
-- 🧠 Pensamiento crítico  
-- 🎯 Enfoque en soluciones reales  
-- 💡 Mejor 1 proyecto sólido que 10 incompletos  
+- 🏨 Desarrollando un Sistema de Gestión Hotelera
+- 🎯 Fortaleciendo conocimientos en arquitectura web
+- 🤖 Iniciando formación en Inteligencia Artificial
 
 ---
 
+## 🎯 Objetivo Profesional
+
+Convertirme en un desarrollador Full Stack sólido, capaz de diseñar y construir aplicaciones completas, eficientes y escalables.
+
+---
